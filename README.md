@@ -1,6 +1,6 @@
 # Useful Swift tips 
 
-[#1 Namespacing with nested types]
+[#1 Namespacing with nested types](https://github.com/Winlentia/usefulSwiftTips/blob/master/README.md#1-topviewcontroller-class-name)
 
 
 ## [#1 TopViewController Class Name]
