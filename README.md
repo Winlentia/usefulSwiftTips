@@ -3,7 +3,7 @@
 [#1 Namespacing with nested types]
 
 
-## [#1 Namespacing with nested types]
+## [#1 TopViewController Class Name]
 
 This func gives you the top view controller name log. its usefull for unknown projects.
 
