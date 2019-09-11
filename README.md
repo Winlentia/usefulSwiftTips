@@ -2,7 +2,7 @@
 
 [#1 TopViewController Class Name](https://github.com/Winlentia/usefulSwiftTips/blob/master/README.md#1-topviewcontroller-class-name)
 
-[#2 Sort class array](https://github.com/Winlentia/usefulSwiftTips/blob/master/README.md#1-topviewcontroller-class-name)
+[#2 Sort class array](https://github.com/Winlentia/usefulSwiftTips/blob/master/README.md#2-sort-class-array)
 
 ## [#2 Sort class array]
 
