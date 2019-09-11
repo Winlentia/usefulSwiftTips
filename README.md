@@ -2,6 +2,17 @@
 
 [#1 TopViewController Class Name](https://github.com/Winlentia/usefulSwiftTips/blob/master/README.md#1-topviewcontroller-class-name)
 
+[#2 Sort class array](https://github.com/Winlentia/usefulSwiftTips/blob/master/README.md#1-topviewcontroller-class-name)
+
+## [#2 Sort class array]
+
+This sorting code is sorts array elements by id value
+
+```swift
+
+    personArray.sorted(by: { $0.id > $1.id })
+    
+```
 
 ## [#1 TopViewController Class Name]
 
